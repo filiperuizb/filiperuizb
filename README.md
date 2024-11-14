@@ -1,6 +1,11 @@
 <img src="https://i.imgur.com/HzLJjoN.png" alt="Banner LinkedIn" width="100%" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="center"><b>Me chamo Filipe  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 ## Sobre mim
 
@@ -26,11 +31,26 @@
 
 ![Visualizações do perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/filiperuizb&title=Visualizações&style=flat-square)
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark)
+## GitHub Status
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark" alt="Status do GitHub" />
+    </td>
+    <td>
+      <!-- Coloque aqui o link do gráfico ou widget que você quer adicionar -->
+      <img src="caminho/para/o/seu_widget.png" alt="Gráfico Adicional" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
+<p align="center">
   <a href="mailto:filiperuizboligon9@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
