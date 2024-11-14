@@ -7,8 +7,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture>
-
 - 🎓 Estudando Engenharia de Software na Unicesumar
 - 💼 Trabalhando como {stack em que você trabalha} na {empresa}
 - 🌱 Aprendendo mais sobre Java a cada dia
