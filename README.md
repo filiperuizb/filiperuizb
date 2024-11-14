@@ -24,11 +24,11 @@
 
 <br/>
 
-![Visualizações do perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seu_usuario&title=Visualizações&style=flat-square)
+![Visualizações do perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/filiperuizb&title=Visualizações&style=flat-square)
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark)
 
 <p align="left">
   <a href="mailto:filiperuizboligon9@gmail.com" title="Gmail">
