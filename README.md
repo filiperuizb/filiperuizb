@@ -21,7 +21,14 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
 <br/>
+
+![Visualizações do perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seu_usuario&title=Visualizações&style=flat-square)
+
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=dark)
 
 <p align="left">
   <a href="mailto:filiperuizboligon9@gmail.com" title="Gmail">
