@@ -50,6 +50,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark" width="375" alt="Filipe's most used languages"/>
   </a>
 </div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <br><br>
 
@@ -84,9 +85,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-## <b>Obrigado pela visita e até a próxima! ✨</b>
+   <b>Obrigado pela visita e até a próxima! ✨</b>
 </div>
 <br><br>
----
+
 
 
