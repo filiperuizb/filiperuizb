@@ -26,26 +26,11 @@
 
 ![Visualizações do perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/filiperuizb&title=Visualizações&style=flat-square)
 
-## GitHub Status
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark" alt="Status do GitHub" />
-    </td>
-    <td>
-      <!-- Coloque aqui o link do gráfico ou widget que você quer adicionar -->
-      <img src="caminho/para/o/seu_widget.png" alt="Gráfico Adicional" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-    </td>
-  </tr>
-</table>
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark)
 
-<p align="center">
+<p align="left">
   <a href="mailto:filiperuizboligon9@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
