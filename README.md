@@ -38,12 +38,12 @@
 -----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=35><b> GitHub Stats</b>
-<br>
+<<br>
 
 <div align="center">
   <a href="https://github.com/filiperuizb">
-    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark" width="375" alt="Filipe's most used languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark&cache_seconds=1800" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark&cache_seconds=1800" width="375" alt="Filipe's most used languages"/>
   </a>
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
