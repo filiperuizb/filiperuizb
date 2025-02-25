@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://github.com/filiperuizb">
-     https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark
+    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark" width="450"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark" width="375" alt="Filipe's most used languages"/>
   </a>
 </div>
@@ -84,6 +84,3 @@
    <b>Obrigado pela visita e até a próxima! ✨</b>
 </div>
 <br><br>
-
-
-
