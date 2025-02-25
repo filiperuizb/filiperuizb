@@ -8,8 +8,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 
 - 🎓 Estudando Engenharia de Software na Unicesumar
-- 💼 Trabalhando como {stack em que você trabalha} na {empresa}
-- 🌱 Aprendendo mais sobre Java a cada dia
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções de software
 
 <br><br>
@@ -44,7 +42,7 @@
 
 <div align="center">
   <a href="https://github.com/filiperuizb">
-    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark" width="450"/>
+     https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark" width="375" alt="Filipe's most used languages"/>
   </a>
 </div>
