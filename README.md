@@ -13,6 +13,8 @@
 - 🎓 Estudante de Engenharia de Software na Unicesumar
 - 💡 Explorando novas tecnologias e desenvolvendo soluções de software
 - 🎨 Também atuo como Web Designer utilizando **Figma**
+- 💼 Estagiário de TI na **Tributech**  
+  <img src="https://i.imgur.com/zSYrcDD.png" width="120"/>
 
 ---
 
@@ -21,9 +23,11 @@
 ### 🔹 Linguagens de Programação
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+### 🔹 Desenvolvimento Web
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
 
 ### 🔹 Banco de Dados
@@ -40,8 +44,8 @@
 
 <div align="center">
   <a href="https://github.com/filiperuizb">
-    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark&cache_seconds=1800" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark&cache_seconds=1800" width="375" alt="Linguagens mais usadas"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark" width="375" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
@@ -49,6 +53,7 @@
 
 ## 🤝 Vamos nos Conectar!
 
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filiperuizboligon9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-ruiz-boligon-8930582b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filiperuiz.b/)
 
