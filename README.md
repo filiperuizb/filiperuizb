@@ -47,7 +47,6 @@
 <div align="center">
   <a href="https://github.com/filiperuizb">
     <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark&cache_seconds=1800" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark&cache_seconds=1800" width="375" alt="Filipe's most used languages"/>
   </a>
 </div>
 
