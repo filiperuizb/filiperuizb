@@ -22,12 +22,12 @@
 
 ### 🔹 Linguagens de Programação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,c,js,typescript" height="40"/>
 </p>
 
 ### 🔹 Desenvolvimento Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" height="40"/>
 </p>
 
 ### 🔹 Banco de Dados
