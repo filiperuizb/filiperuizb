@@ -37,7 +37,7 @@
 
 ### 🔹 DevOps & Versionamento
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github, linux, pentaho" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,pentaho" height="40"/>
 </p>
 
 ---
