@@ -12,7 +12,7 @@
 
 - 🎓 Estudante de **Engenharia de Software** na **Unicesumar**
 - 💡 Explorando novas tecnologias e desenvolvendo soluções inovadoras
-- 🎨 **Web Designer** utilizando **Figma**
+- 🎨 Desenvolvedor **FrontEnd** 
 - 💼 Estagiário de TI na **Tributech**  
   <img src="https://i.imgur.com/zSYrcDD.png" width="120"/>
 
