@@ -43,13 +43,12 @@
 
 ---
 
-## 🧊 Cubo 3D de Contribuições
+## 🧊 Contribuições
 
 <div align="center">
   <img src="https://github.com/filiperuizb/filiperuizb/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
 </div>
 
-> Para gerar o seu próprio cubo 3D: [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ---
 
