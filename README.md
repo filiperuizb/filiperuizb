@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://github.com/filiperuizb">
-    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark&cache_seconds=600" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=github_dark&hide_border=false&locale=pt-br" width="450"/>
   </a>
 </div>
 
