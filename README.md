@@ -22,12 +22,12 @@
 
 ### 🔹 Linguagens de Programação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,js,typescript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,c,js,typescript,python" height="40"/>
 </p>
 
 ### 🔹 Desenvolvimento Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vue" height="40"/>
 </p>
 
 ### 🔹 Banco de Dados
@@ -37,8 +37,19 @@
 
 ### 🔹 DevOps & Versionamento
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,pentaho" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" height="40"/>
+  <img src="https://img.shields.io/badge/Pentaho-003A70?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiBmaWxsPSIjMDAzQTcwIi8+PC9zdmc+" height="40"/>
 </p>
+
+---
+
+## 🧊 Cubo 3D de Contribuições
+
+<div align="center">
+  <img src="https://github.com/filiperuizb/filiperuizb/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
+</div>
+
+> Para gerar o seu próprio cubo 3D: [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ---
 
