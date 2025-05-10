@@ -11,9 +11,8 @@
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de **Engenharia de Software** na **Unicesumar**
-- 🎨 Desenvolvedor **FrontEnd** 
-- 💡 Querendo me tornar FullStack
-- 💼 Estagiário de TI na **Tributech**  
+- 🛠️ Desenvolvedor **FullStack** 
+- 💼 Estagiário de Dados e Desenvolvimento na **Tributech**  
   <img src="https://i.imgur.com/zSYrcDD.png" width="120"/>
 
 ---
