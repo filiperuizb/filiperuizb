@@ -20,9 +20,9 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🔹 Linguagens de Programação
+### 🔹 Linguagens e Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,js,typescript,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,c,js,ts,python,nodejs,express,nextjs" height="40"/>
 </p>
 
 ### 🔹 Desenvolvimento Web
@@ -30,15 +30,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vue" height="40"/>
 </p>
 
-### 🔹 Banco de Dados
+### 🔹 Banco de Dados e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40"/>
+  <img src="https://img.shields.io/badge/Pentaho-003A70?style=flat-square&logoColor=white&labelColor=003A70&label=Pentaho" height="25"/>
 </p>
 
 ### 🔹 DevOps & Versionamento
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux" height="40"/>
-  <img src="https://img.shields.io/badge/Pentaho-003A70?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiBmaWxsPSIjMDAzQTcwIi8+PC9zdmc+" height="40"/>
 </p>
 
 ---
@@ -49,14 +49,13 @@
   <img src="https://github.com/filiperuizb/filiperuizb/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
 </div>
 
-
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/filiperuizb">
-    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=github_dark&hide_border=false&locale=pt-br" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=github_dark&hide_border=false&locale=pt-br&cache_seconds=1800" width="450"/>
   </a>
 </div>
 
