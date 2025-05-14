@@ -52,11 +52,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/filiperuizb">
-    <img src="https://streak-stats.demolab.com?user=filiperuizb&theme=dark&hide_border=false&locale=pt_BR"/>
-  </a>
-</div>
+<div align="center"> <a href="https://github.com/filiperuizb"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark&locale=pt-br&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark&hide_border=true"/> </a> </div>
 
 ---
 
