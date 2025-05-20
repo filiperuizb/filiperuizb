@@ -21,7 +21,7 @@
 
 ### 🔹 Linguagens e Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,js,ts,python,nodejs,express,nextjs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,express,nextjs" height="40"/>
 </p>
 
 ### 🔹 Desenvolvimento Web
