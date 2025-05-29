@@ -52,7 +52,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center"> <a href="https://github.com/filiperuizb"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark&locale=pt-br&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&layout=compact&theme=dark&hide_border=true"/> </a> </div>
+<div style="text-align: center;" align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=filiperuizb&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00FF00&text_color=FFF&border_radius=3&border_color=561760&icon_color=00FF00&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/filiperuizb/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wellington-Amorim&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
 ---
 
