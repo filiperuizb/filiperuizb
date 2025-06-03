@@ -19,9 +19,13 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🔹 Linguagens e Frameworks
+### 🔹 Linguagens 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,express,nextjs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" height="40"/>
+</p>
+### 🔹 Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nextjs" height="40"/>
 </p>
 
 ### 🔹 Desenvolvimento Web
