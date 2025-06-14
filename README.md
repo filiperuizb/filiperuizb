@@ -12,7 +12,7 @@
 
 - 🎓 Estudante de **Engenharia de Software** na **Unicesumar**
 - 🛠️ Desenvolvedor **FullStack** 
-- 💼 Estagiário de Dados e Desenvolvimento na **Tributech**  
+- 💼 Desenvolvedor FullStack na **Tributech**  
   <img src="https://i.imgur.com/zSYrcDD.png" width="120"/>
 
 ---
