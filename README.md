@@ -11,7 +11,6 @@
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de **Engenharia de Software** na **Unicesumar**
-- 🛠️ Desenvolvedor **FullStack** 
 - 💼 Desenvolvedor FullStack na **Tributech**  
   <img src="https://i.imgur.com/zSYrcDD.png" width="120"/>
 
