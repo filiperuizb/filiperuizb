@@ -30,7 +30,7 @@
 
 ### 🔹 Desenvolvimento Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vue" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,vue" height="40"/>
 </p>
 
 ### 🔹 Banco de Dados e Ferramentas
