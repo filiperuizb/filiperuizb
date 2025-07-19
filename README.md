@@ -49,7 +49,9 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&cache_seconds=3600&..." />
+  <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&include_all_commits=true&count_private=true&line_height=25&bg_color=000&title_color=00FF00&text_color=FFF&border_radius=3&border_color=561760&icon_color=00FF00&theme=jolly&cache_seconds=60" alt="GitHub stats">
+</p>
+
 </p>
 
 <p align="center">
