@@ -49,15 +49,15 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=filiperuizb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=filiperuizb&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=filiperuizb&theme=tokyonight&hide_border=false" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperuizb&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 ---
