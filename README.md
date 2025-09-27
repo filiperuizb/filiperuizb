@@ -1,4 +1,4 @@
-![Banner LinkedIn](https://i.imgur.com/JchAmOR.png)
+![Banner LinkedIn](https://i.imgur.com/2Cftwhc.jpeg)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
