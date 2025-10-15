@@ -36,7 +36,6 @@
 ### 🔹 Banco de Dados e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40"/>
-  <img src="https://img.shields.io/badge/Pentaho-003A70?style=flat-square&logoColor=white&labelColor=003A70&label=Pentaho" height="25"/>
 </p>
 
 ### 🔹 DevOps & Versionamento
