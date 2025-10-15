@@ -20,7 +20,7 @@
 
 ### 🔹 Linguagens 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,go" height="40"/>
 </p>
 
 ### 🔹 Frameworks
